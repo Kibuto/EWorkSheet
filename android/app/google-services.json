@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "485871530529",
+    "project_id": "synthesis-project-b9312",
+    "storage_bucket": "synthesis-project-b9312.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:485871530529:android:ab38c9927c252207992960",
+        "android_client_info": {
+          "package_name": "com.eworksheet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "485871530529-hoko1a0rv7fk79bppkobkuig33j7looc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpzG50NcLuVgC2ouTzinLpa5U5j_NrgsE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "485871530529-hoko1a0rv7fk79bppkobkuig33j7looc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
